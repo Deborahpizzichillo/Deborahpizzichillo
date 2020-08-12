@@ -1,6 +1,6 @@
 ### Hi there, I'm Deborah - 👋
 
-## I'm developer, artist and designer!
+## I'm a (web)developer, artist and designer!
 
 -   🔭 I’m currently working on little projects!
 -   🌱 The possibility to turn ideas into reality.The freedom of thinking of something and being able to create it is unparalleled.
