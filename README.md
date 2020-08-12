@@ -3,10 +3,9 @@
 ## I'm developer, artist and designer!
 
 -   🔭 I’m currently working on little projects!
--   🌱 I’m currently learning everything 🤣
+-   🌱 The possibility to turn ideas into reality.The freedom of thinking of something and being able to create it is unparalleled.
 -   👯 I’m looking to collaborate with other creators.
--   🥅 2020 Goals: ....
--   ⚡ Fun fact: I love to study and read about new tech, art history.
+-   ⚡ Fun fact: Total geek that loves to study and or read about technology, art history and soccer. 
 
 [<img align="left" alt="deborah-pizzichillo-23970398| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
