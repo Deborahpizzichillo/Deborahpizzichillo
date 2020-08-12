@@ -5,7 +5,7 @@
 -   🔭 I’m currently working on little projects!
 -   🌱 The possibility to turn ideas into reality.The freedom of thinking of something and being able to create it is unparalleled.
 -   👯 I’m looking to collaborate with other creators.
--   ⚡ Fun fact: Total geek that loves to study and or read about technology, art history and soccer. 
+-   ⚡ Fun fact: Total geek that loves to study/read about technology, art history and soccer. 
 
 ### Connect with me:
 
