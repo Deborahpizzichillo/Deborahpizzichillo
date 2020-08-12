@@ -14,14 +14,8 @@
 
 ### Languages and Tools:
 
-💻 HTML    💻 CSS     💻 SaSS     💻 BOOTSRAP     💻 JAVASCRIPT      💻 VUE.JS      💻 JQUERY                           
-💻 ANGULAR/TYPSCRIPT
-💻 PHP
-💻 SQL/MYSQL
-💻 LARAVEL
-💻 C++ 
-💻 NIGHTWATCH.JS
-💻 MICROSOFT OFFICE 
+💻 HTML    💻 CSS     💻 SaSS     💻 BOOTSRAP     💻 JAVASCRIPT      💻 VUE.JS      💻 JQUERY     💻 ANGULAR/TYPSCRIPT
+💻 PHP     💻 SQL/MYSQL     💻 LARAVEL     💻 C++     💻 NIGHTWATCH.JS     💻 MICROSOFT OFFICE 
 🎨 FIGMA
 🎨 PHOTOSHOP
 🎨 INDESIGN
