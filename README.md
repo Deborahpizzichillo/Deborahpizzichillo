@@ -14,22 +14,27 @@
 
 ### Languages and Tools:
 
-💻 HTML                             🎨 FIGMA
-💻 CSS                              🎨 PHOTOSHOP
-💻 SaSS                             🎨 INDESIGN
-💻 BOOTSRAP                         🎨 ILLUSTRATOR
-💻 JAVASCRIPT                       🎨 SKETCHUP
-💻 VUE.JS                           🎨 PROCREATE
-💻 JQUERY                           🎨 PHOTOGRAPHY
+💻 HTML                             
+💻 CSS                             
+💻 SaSS                             
+💻 BOOTSRAP                         
+💻 JAVASCRIPT                       
+💻 VUE.JS                          
+💻 JQUERY                           
 💻 ANGULAR/TYPSCRIPT
 💻 PHP
 💻 SQL/MYSQL
 💻 LARAVEL
 💻 C++ 
 💻 NIGHTWATCH.JS
-
-
-
+💻 MICROSOFT OFFICE 
+🎨 FIGMA
+🎨 PHOTOSHOP
+🎨 INDESIGN
+🎨 ILLUSTRATOR
+🎨 SKETCHUP
+🎨 PROCREATE
+🎨 PHOTOGRAPHY
 <br />
 <br />
 
