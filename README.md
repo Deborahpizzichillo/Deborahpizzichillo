@@ -8,7 +8,8 @@
 -   🥅 2020 Goals: ....
 -   ⚡ Fun fact: I love to study and read about new tech, art history.
 
+[<img align="left" alt="deborah-pizzichillo-23970398| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
+[linkedin]: https://www.linkedin.com/in/deborah-pizzichillo-23970398/
 
 
