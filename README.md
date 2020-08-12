@@ -14,13 +14,7 @@
 
 ### Languages and Tools:
 
-💻 HTML                             
-💻 CSS                             
-💻 SaSS                             
-💻 BOOTSRAP                         
-💻 JAVASCRIPT                       
-💻 VUE.JS                          
-💻 JQUERY                           
+💻 HTML    💻 CSS     💻 SaSS     💻 BOOTSRAP     💻 JAVASCRIPT      💻 VUE.JS      💻 JQUERY                           
 💻 ANGULAR/TYPSCRIPT
 💻 PHP
 💻 SQL/MYSQL
