@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="deborah-pizzichillo-23970398| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox| Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Gmail.svg" />][Gmail]
+[<img align="left" alt="pizzichillo.deborah@gmail.com| Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Gmail.svg" />][Gmail]
 
 <br />
 
