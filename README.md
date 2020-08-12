@@ -17,6 +17,9 @@
 💻 HTML    💻 CSS     💻 SaSS     💻 BOOTSRAP     💻 JAVASCRIPT      💻 VUE.JS      💻 JQUERY     💻 ANGULAR/TYPSCRIPT
 💻 PHP    
 💻 SQL/MYSQL     💻 LARAVEL     💻 C++     💻 NIGHTWATCH.JS     💻 MICROSOFT OFFICE    💻 LINUX
+<br />
+
+
 🎨 FIGMA
 🎨 PHOTOSHOP
 🎨 INDESIGN   
