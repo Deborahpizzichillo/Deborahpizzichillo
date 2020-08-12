@@ -13,7 +13,21 @@
 <br />
 
 ### Languages and Tools:
-(1f5a5_desktopcomputer) 
+
+💻 HTML                             🎨 FIGMA
+💻 CSS                              🎨 PHOTOSHOP
+💻 SaSS                             🎨 INDESIGN
+💻 BOOTSRAP                         🎨 ILLUSTRATOR
+💻 JAVASCRIPT                       🎨 SKETCHUP
+💻 VUE.JS                           🎨 PROCREATE
+💻 JQUERY                           🎨 PHOTOGRAPHY
+💻 ANGULAR/TYPSCRIPT
+💻 PHP
+💻 SQL/MYSQL
+💻 LARAVEL
+💻 C++ 
+💻 NIGHTWATCH.JS
+
 
 
 <br />
