@@ -9,7 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="deborah-pizzichillo-23970398 | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+<a href="https://www.linkedin.com/in/deborah-pizzichillo-23970398/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" <a/>
 
 
 <br />
