@@ -30,7 +30,7 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/deborah-pizzichillo-23970398/
+[linkedin]: https://www.linkedin.com/in/deborah-pizzichillo-23970398/| LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 
 
 
