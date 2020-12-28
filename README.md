@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="deborah-pizzichillo-23970398| LinkedIn" width="22px"src="<i class="fab fa-linkedin"></i>" />][linkedin]
+[<img align="left" alt="deborah-pizzichillo-23970398 | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 
 
 <br />
