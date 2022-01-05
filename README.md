@@ -9,6 +9,9 @@
 
 ### Connect with me:
 
+<a href="https://www.linkedin.com/in/deborah-pizzichillo-23970398/">
+  <img align="left" alt="Deborah's LinkedIN" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" <a/>
+
 
 
 <br />
