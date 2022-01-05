@@ -7,9 +7,11 @@
 -   👯 I’m looking to collaborate with other creators. And to share my knowledge and experience.
 -   ⚡ Fun fact: Total geek that loves to learn/read about technology, mecha, astronomy, Greek mythology, Japanese folk/mythology and art (history/poetry).
 
+<br/>
+
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/deborah-pizzichillo-23970398/">
+  <a href="https://www.linkedin.com/in/deborah-pizzichillo-23970398/">
   <img align="left" alt="Deborah's LinkedIN" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" <a/>
 
 
